@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JetReaderApp</string>
+    <string name="create_acc">Please enter a valid email and password with at least 6 characters. </string>
+    <string name="message">Are you sure you want to delete? </string>
+    <string name="actions">This action is not reversible/ </string>
+</resources>
